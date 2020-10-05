@@ -20,7 +20,6 @@
     <link id="theme-style" rel="stylesheet" href="assets/css/theme.css">
   </head>
   <body>
-    <!-- DEMO ONLY -->
     <header class="header">
       <div class="branding">
         <div class="container position-relative">
@@ -59,7 +58,7 @@
               of powerful brand names, and come upon our business or startup
               that way...basically having a new idea fall in your lap...it's
               kinda like when you are shooting the shit with your friends and
-              something just hits the right note!&nbsp; </div>
+              something someone says just hits the right note!&nbsp; </div>
             <div class="cta-btns"> </div>
           </div>
         </div>
@@ -72,63 +71,73 @@
         <p> <iframe class="rumble" src="https://rumble.com/embed/v7zidy/?pub=7oxj"
             allowfullscreen="" height="360" frameborder="0" width="640"></iframe>
         </p>
-        <!--//item-->
-        <!--//item--> </div>
-      <!--//container--> </section>
-    <!--//logo-section-->
+        <strong>Check Out the Domain Startup Fund Domain List Below</strong><br>
+        <div class="pt-3 text-center">&nbsp; <a class="btn btn-primary theme-btn theme-btn-ghost font-weight-bold"
+            href="https://docs.google.com/spreadsheets/d/1Hgovwa8SQOUaTNinaqukohgWySQKHWd6qIrMnEHdsWs/edit?usp=sharing">Click
+            Here</a> </div>
+      </div>
+    </section>
+    <!--//logo-section---->
     <section class="benefits-section py-5">
       <div class="container py-lg-5">
-        <h3 class="mb-5 text-center font-weight-bold">Market your mobile app
-          effectively with Nova</h3>
+        <h3 class="mb-5 text-center font-weight-bold">What are the terms of the
+          Domain Startup Fund?</h3>
         <div class="row">
           <div class="item col-12 col-lg-4">
             <div class="item-inner text-center p-3 p-lg-5"> <img class="mb-3" src="assets/images/icon-target.svg"
                 alt="">
-              <h5>Focused on UX</h5>
-              <div>Use this area to list your app's key benefits. Lorem ipsum
-                dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-                ligula eget dolor. Aenean massa. </div>
+              <h5>1% Equity in exchange for a great .COM</h5>
+              <div>Nothing too formal. Just promise us you'll think of us when
+                you've become the next Uber. Or even if you fall flat on your
+                face. </div>
             </div>
             <!--//item-inner--> </div>
           <!--//item-->
           <div class="item col-12 col-lg-4">
             <div class="item-inner text-center p-3 p-lg-5"> <img class="mb-3" src="assets/images/icon-rocket.svg"
                 alt="">
-              <h5>Convert Users</h5>
-              <div>Use this area to list your app's key benefits. Lorem ipsum
-                dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-                ligula eget dolor. Aenean massa. </div>
+              <h5>Get 1 Year to Use the Domain</h5>
+              <div>It's your name from day 1. You get a valuable .com for
+                nothing (well, maybe not exactly nothing!), simply because we
+                believe in your vision and dreams. Take 1 year to launch your
+                start-up into orbit. </div>
             </div>
             <!--//item-inner--> </div>
           <!--//item-->
           <div class="item col-12 col-lg-4">
             <div class="item-inner text-center p-3 p-lg-5"> <img class="mb-3" src="assets/images/icon-cogs.svg"
                 alt="">
-              <h5>Easy Customisations</h5>
-              <div>Use this area to list your app's key benefits. Lorem ipsum
-                dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-                ligula eget dolor. Aenean massa. </div>
+              <h5>Friendly Advice Along the Way</h5>
+              <div>We live vicariously through your success, your ups and downs.
+                You are our baby too and we'll support you with gentle hints and
+                ideas here and there.&nbsp;&nbsp; </div>
             </div>
             <!--//item-inner--> </div>
           <!--//item--> </div>
-        <!--//row-->
-        <div class="pt-3 text-center"> <a class="btn btn-primary theme-btn theme-btn-ghost font-weight-bold"
-            href="https://themes.3rdwavemedia.com/bootstrap-templates/free/nova-bootstrap-landing-page-template-for-mobile-apps/">Learn
-            More</a> </div>
-      </div>
+        <div class="item col-12 col-lg-4">
+          <div class="item-inner text-center p-3 p-lg-5"> <img class="mb-3" src="assets/images/icon-target.svg"
+              alt="">
+            <h5>At the end of year 1, keep the name for $2,500USD if you want it</h5>
+            <div>Didn't fully get behind your dream? Return the domain name to
+              us after 1 year if you don't feel like you want to pursue your
+              idea any longer. Otherwise, keep the domain for $2,500 USD at the
+              end of year 1, or optionally $300/month for 12 months.&nbsp; </div>
+          </div>
+          <!--//item-inner--> </div>
+        <!--//row--> </div>
     </section>
     <!--//benefits-section-->
     <!--//features-section-->
     <section class="cta-section py-5 theme-bg-secondary text-center">
       <div class="container">
-        <h3 class="text-white font-weight-bold mb-3">Ready to turn your visitors
-          to app users?</h3>
-        <div class="text-white mx-auto single-col-max-width section-intro">Try
-          Nova Free Today. Lorem ipsum dolor sit amet, consectetuer adipiscing
-          elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
-          natoque penatibus et magnis dis.</div>
-        <a class="btn theme-btn theme-btn-ghost theme-btn-on-bg mt-4" href="https://themes.3rdwavemedia.com/bootstrap-templates/free/nova-bootstrap-landing-page-template-for-mobile-apps/">Download
-          Now - It's FREE</a> </div>
+        <h3 class="text-white font-weight-bold mb-3">Ready to apply?</h3>
+        <div class="text-white mx-auto single-col-max-width section-intro">Check
+          out the <a href="https://docs.google.com/spreadsheets/d/1Hgovwa8SQOUaTNinaqukohgWySQKHWd6qIrMnEHdsWs/edit?usp=sharing">domain
+            names offered</a> in the Domain Startup Fund.&nbsp; If you find one
+          you want to work with and agree to the above terms, please fill out
+          the form below to tell us more. </div>
+        <a class="btn theme-btn theme-btn-ghost theme-btn-on-bg mt-4" href="https://themes.3rdwavemedia.com/bootstrap-templates/free/nova-bootstrap-landing-page-template-for-mobile-apps/">Click
+          Here to Apply</a> </div>
     </section>
     <!--//cta-section-->
     <!--//testimonial-section-->
